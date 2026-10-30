@@ -11,14 +11,14 @@
 
 
 ### MEMBERS 1 YEAR:
- NAME = Priyanshu Rai  
- BRANCH = Electronics and Communication Engineering  
- NAME =  Aayushpreet  
- BRANCH = Electronics and Communication Engineering  
- NAME = Navy Sharma  
- BRANCH = Computer Science Engineering  
- NAME = Madhukar Jha  
- BRANCH = Civil Engineering  
+ Name = Priyanshu Rai  
+ Branch = Electronics and Communication Engineering  
+ Name =  Aayushpreet  
+ Branch = Electronics and Communication Engineering  
+ Name = Navy Sharma  
+ Branch = Computer Science Engineering  
+ Name = Madhukar Jha  
+ Branch = Civil Engineering  
 # TASKS:
 Learning Web and App Development
 This task is designed to make you familiar with Git and GitHub
