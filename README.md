@@ -11,7 +11,7 @@
 
 
 ### MEMBERS 1 YEAR:
- 1. Name = Priyanshu Rai  
+ 1. NAME = Priyanshu Rai  
     Branch = Electronics and Communication Engineering  
  2. NAME =  Aayushpreet  
     Branch = Electronics and Communication Engineering  
