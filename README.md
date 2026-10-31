@@ -13,11 +13,11 @@
 ### MEMBERS 1 YEAR:
  1. Name = Priyanshu Rai  
     Branch = Electronics and Communication Engineering  
- 2. Name =  Aayushpreet  
+ 2. NAME =  Aayushpreet  
     Branch = Electronics and Communication Engineering  
- 3. Name = Navy Sharma  
+ 3. NAME = Navy Sharma  
     Branch = Computer Science Engineering  
- 4. Name = Madhukar Jha  
+ 4. NAME = Madhukar Jha  
     Branch = Civil Engineering  
 # TASKS:
 Learning Web and App Development
