@@ -12,9 +12,9 @@
 
 ### MEMBERS 1 YEAR:
  1. NAME = Priyanshu Rai  
-    Branch = Electronics and Communication  
- 2. NAME =  Aayushpreet  
-    Branch = Electronics and Communication 
+    Branch = Electronics and Communication Engineering  
+ 2. NAME =  AAyushpreet
+    Branch = Electronics and Communication Engineering  
  3. NAME = Navy Sharma  
     Branch = Computer Science 
  4. NAME = Madhukar Jha  
