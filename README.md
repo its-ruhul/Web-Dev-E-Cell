@@ -16,9 +16,9 @@
  2. NAME =  AAyushpreet
     Branch = Electronics and Communication Engineering  
  3. NAME = Navy Sharma  
-    Branch = Computer Science Engineering  
+    Branch = Computer Science 
  4. NAME = Madhukar Jha  
-    Branch = Civil Engineering  
+    Branch = Civil 
 # TASKS:
 Learning Web and App Development
 This task is designed to make you familiar with Git and GitHub
